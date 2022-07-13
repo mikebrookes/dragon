@@ -1,0 +1,14 @@
+*{
+    font-family: 'Cinzel', serif;
+
+}
+
+hr{
+    padding-bottom: 30px;
+}
+a:not([class*="btn"]) {
+    text-decoration: none;
+}
+a:not([class*="btn"]):hover {
+    text-decoration: underline;
+}
